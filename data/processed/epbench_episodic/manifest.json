@@ -1,0 +1,47 @@
+{
+  "dataset": "EPBench",
+  "id_policy": {
+    "corpus": "<variant>::<original_id>",
+    "queries": "<variant>::<query_type>::<original_id>"
+  },
+  "memory_type": "episodic",
+  "outputs": {
+    "corpus": 19,
+    "qrels": 378,
+    "queries": 276
+  },
+  "query_types": {
+    "Entities": {
+      "corpus_rows_seen": 19,
+      "qrels": 74,
+      "queries": 52
+    },
+    "Event_contents": {
+      "corpus_rows_seen": 19,
+      "qrels": 96,
+      "queries": 71
+    },
+    "Full_event_details": {
+      "corpus_rows_seen": 19,
+      "qrels": 5,
+      "queries": 5
+    },
+    "Other_entities": {
+      "corpus_rows_seen": 19,
+      "qrels": 5,
+      "queries": 5
+    },
+    "Spaces": {
+      "corpus_rows_seen": 19,
+      "qrels": 98,
+      "queries": 71
+    },
+    "Times": {
+      "corpus_rows_seen": 19,
+      "qrels": 100,
+      "queries": 72
+    }
+  },
+  "source": "data/raw/lmeb/epbench",
+  "variant": "default_claude_short"
+}

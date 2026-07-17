@@ -1,0 +1,31 @@
+{
+  "categories": {
+    "Art_and_Entertainment": {
+      "profiles": 103360,
+      "questions": 801
+    },
+    "Lifestyle_and_Personal_Development": {
+      "profiles": 87574,
+      "questions": 892
+    },
+    "Society_and_Culture": {
+      "profiles": 89522,
+      "questions": 810
+    }
+  },
+  "dataset": "LaMP-QA",
+  "id_policy": {
+    "profiles": "<source_config>::<original_id>",
+    "questions": "<source_config>::<original_id>"
+  },
+  "next_outputs": {
+    "answers.jsonl": "created by generation after retrieval is validated",
+    "retrieved_contexts.jsonl": "created by profile retrieval over profiles.jsonl"
+  },
+  "outputs": {
+    "profiles": 280456,
+    "questions": 2503
+  },
+  "source": "data/raw/lamp_qa/data",
+  "split": "validation"
+}
