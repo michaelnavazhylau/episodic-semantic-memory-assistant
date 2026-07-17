@@ -1,0 +1,51 @@
+# Virtual environments
+.venv/
+venv/
+env/
+.uv-cache/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test, type-checker, and linter caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+# Coverage reports
+.coverage
+.coverage.*
+htmlcov/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# OS metadata
+.DS_Store
+
+# Generated personalization dataset
+data/processed/lamp_qa_personalization/profiles.jsonl
+
+# Raw source payloads (Git-LFS objects, ~91 MB each, not carried by this repo).
+# The READMEs and dataset cards under data/raw/ are committed; see data/raw/README.md.
+data/raw/**/*.parquet
+data/raw/lamp_qa/data/**/validation.json
+
+# Regenerable retrieval embedding caches (too large for the remote)
+embedding_cache.jsonl
+*_embedding_cache.jsonl
+
+# Local cited-work PDFs (pulled from Zotero storage; not committed)
+_CitedWorks/

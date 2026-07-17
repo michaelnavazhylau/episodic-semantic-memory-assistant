@@ -1,0 +1,9 @@
+# Preserve committed artifacts byte-for-byte: these are evaluation outputs, not
+# source that benefits from line-ending normalization.
+* -text
+
+*.png binary
+*.jpg binary
+*.pdf binary
+*.parquet binary
+*.gguf binary
