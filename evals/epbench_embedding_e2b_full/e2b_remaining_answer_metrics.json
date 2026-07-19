@@ -1,0 +1,15 @@
+{
+  "answers": 245,
+  "fail_count": 24,
+  "mean_answer_score": 3.6857142857142855,
+  "partial_count": 63,
+  "pass_count": 158,
+  "score_distribution": {
+    "0": 10,
+    "1": 27,
+    "2": 11,
+    "3": 39,
+    "4": 53,
+    "5": 105
+  }
+}

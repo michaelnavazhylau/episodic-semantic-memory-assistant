@@ -1,0 +1,10 @@
+{
+  "completed_items": 3,
+  "coverage_totals": {
+    "covered_aspects": 2,
+    "missed_aspects": 4,
+    "partial_aspects": 7
+  },
+  "mean_rubric_score": 0.425,
+  "target_items": 3
+}

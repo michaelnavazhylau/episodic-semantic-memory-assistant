@@ -1,0 +1,98 @@
+query_id,query_type,answer_score,answer_grade,top_doc_id,gold_doc_ids,supported_items,unsupported_items,missing_items,explanation,reasoning_details_present,e2b_answer
+default_claude_short::Entities::query_1,Entities,5,pass,default_claude_short::answer_chapter_15,"[""default_claude_short::answer_chapter_15""]","[""Levi Rodriguez"", ""Quill Womack""]",[],[],The candidate answer correctly identifies both protagonists mentioned in the passage: Levi Rodriguez and Quill Womack.,False,"* Levi Rodriguez
+* Quill Womack"
+default_claude_short::Entities::query_2,Entities,3,partial,default_claude_short::answer_chapter_5,"[""default_claude_short::answer_chapter_5""]","[""Meredith Gardner"", ""Uri Wemple"", ""Logan Diaz""]","[""High Line event attendees""]",[],The answer correctly identifies three named protagonists but includes an unsupported generic group.,False,"* High Line event attendees
+* Meredith Gardner
+* Uri Wemple
+* Logan Diaz"
+default_claude_short::Entities::query_3,Entities,5,pass,default_claude_short::answer_chapter_13,"[""default_claude_short::answer_chapter_13""]","[""A red-haired woman who organized homebrewing workshops."", ""Meredith Lester"", ""Presley Lunt"", ""Scarlett Thomas"", ""Kali Newcomb"", ""Ronan Francois"", ""Cora Xiong"", ""Nyla Bower"", ""Delphi Parent""]",[],[],All listed protagonists are explicitly named or described in the gold passage.,False,"* A red-haired woman who organized homebrewing workshops.
+* Meredith Lester
+* Presley Lunt
+* Scarlett Thomas
+* Kali Newcomb
+* Ronan Francois
+* Cora Xiong
+* Nyla Bower
+* Delphi Parent"
+default_claude_short::Entities::query_4,Entities,5,pass,default_claude_short::answer_chapter_2,"[""default_claude_short::answer_chapter_2""]","[""Sienna Hamrick"", ""Chloe Castillo"", ""Reid Blunt""]",[],[],All three protagonists mentioned in the candidate answer are explicitly named in the gold passage as being involved in the fashion show events.,False,"* Sienna Hamrick
+* Chloe Castillo
+* Reid Blunt"
+default_claude_short::Entities::query_6,Entities,3,partial,default_claude_short::answer_chapter_11,"[""default_claude_short::answer_chapter_11"", ""default_claude_short::answer_chapter_7""]","[""Jonah Kramer"", ""Karsyn Schaeffer"", ""Henry Reed"", ""Benjamin Green"", ""Creed Berlin""]",[],"[""Dakari Liebert""]","All listed protagonists appear in the passages, but Dakari Liebert (event organizer) is missing from the answer.",False,"* Jonah Kramer
+* Karsyn Schaeffer
+* Henry Reed
+* Benjamin Green
+* Creed Berlin"
+default_claude_short::Entities::query_7,Entities,3,partial,default_claude_short::answer_chapter_1,"[""default_claude_short::answer_chapter_8"", ""default_claude_short::answer_chapter_1"", ""default_claude_short::answer_chapter_12""]","[""Ezra Edwards"", ""Noa Middleton"", ""Mara Ledbetter"", ""Owen Thomas"", ""Lilah Hamilton"", ""Rocco Cormier"", ""Axl Mims""]",[],"[""Chloe Castillo"", ""Luka Shaffer""]",The answer lists seven protagonists from the first two passages but omits Chloe Castillo and Luka Shaffer from the third passage.,False,"* Ezra Edwards
+* Noa Middleton
+* Mara Ledbetter
+* Owen Thomas
+* Lilah Hamilton
+* Rocco Cormier
+* Axl Mims"
+default_claude_short::Entities::query_8,Entities,5,pass,default_claude_short::answer_chapter_16,"[""default_claude_short::answer_chapter_16"", ""default_claude_short::answer_chapter_6"", ""default_claude_short::answer_chapter_14""]","[""Remy Waterman"", ""Zoe Brown"", ""Benjamin Green"", ""Genevieve Burgin"", ""Julian Ross"", ""Hezekiah Bean"", ""Sienna Lyles""]",[],[],All listed protagonists appear in the gold passages as participants in tech hackathon events.,False,"* Remy Waterman
+* Zoe Brown
+* Benjamin Green
+* Genevieve Burgin
+* Julian Ross
+* Hezekiah Bean
+* Sienna Lyles"
+default_claude_short::Entities::query_10,Entities,1,fail,default_claude_short::answer_chapter_15,"[""default_claude_short::answer_chapter_2"", ""default_claude_short::answer_chapter_15""]","[""Chloe Castillo""]","[""He stood at the entrance, observing each face that passed, searching for any sign of recognition or suspicion.""]","[""Levi Rodriguez"", ""Quill Womack"", ""Sienna Hamrick"", ""Reid Blunt""]",The answer only identifies one protagonist (Chloe Castillo) and includes an unsupported descriptive sentence instead of naming the other protagonists from both passages.,False,"* He stood at the entrance, observing each face that passed, searching for any sign of recognition or suspicion.
+* Chloe Castillo had transformed the space into a realm where fashion and fantasy collided."
+default_claude_short::Entities::query_11,Entities,2,partial,default_claude_short::answer_chapter_3,"[""default_claude_short::answer_chapter_16"", ""default_claude_short::answer_chapter_3""]","[""Henry Reed"", ""Ronan Guevara"", ""Miles Pritchett""]","[""Oakley Goetz""]","[""Zoe Brown"", ""Remy Waterman""]",The answer includes three protagonists from the photography exhibition but misses two from the hackathon and includes an unsupported name.,False,"* Henry Reed
+* Ronan Guevara
+* Miles Pritchett
+* Oakley Goetz"
+default_claude_short::Entities::query_12,Entities,2,partial,default_claude_short::answer_chapter_3,"[""default_claude_short::answer_chapter_8"", ""default_claude_short::answer_chapter_14""]","[""Genevieve Burgin"", ""Benjamin Green""]",[],"[""Owen Thomas"", ""Lilah Hamilton"", ""Rocco Cormier"", ""Axl Mims""]",The answer only includes protagonists from the second passage and misses four protagonists from the first passage.,False,"Protagonists involved in events at Snug Harbor Cultural Center:
+* Genevieve Burgin
+* Benjamin Green"
+default_claude_short::Entities::query_13,Entities,3,partial,default_claude_short::answer_chapter_12,"[""default_claude_short::answer_chapter_11"", ""default_claude_short::answer_chapter_7""]","[""Henry Reed"", ""Jonah Kramer"", ""Creed Berlin""]",[],"[""Benjamin Green"", ""Dakari Liebert"", ""Karsyn Schaeffer""]",The answer correctly identifies three protagonists from the passages but misses three other named individuals who were involved in events at Washington Square Park.,False,"Protagonists involved in events at Washington Square Park:
+* Henry Reed
+* Creed Berlin
+* Jonah Kramer"
+default_claude_short::Entities::query_14,Entities,2,fail,default_claude_short::answer_chapter_6,"[""default_claude_short::answer_chapter_13"", ""default_claude_short::answer_chapter_6""]","[""Julian Ross"", ""Hezekiah Bean"", ""Scarlett Thomas"", ""Delphi Parent""]",[],"[""Meredith Lester"", ""Presley Lunt"", ""Kali Newcomb"", ""Ronan Francois"", ""Cora Xiong"", ""Nyla Bower"", ""Sienna Lyles""]",The answer lists four protagonists but omits seven other protagonists mentioned in the gold passages who were involved in events at the Woolworth Building.,False,"Julian Ross
+Hezekiah Bean
+Scarlett Thomas
+Delphi Parent"
+default_claude_short::Entities::query_15,Entities,3,partial,default_claude_short::answer_chapter_15,"[""default_claude_short::answer_chapter_15""]","[""Quill Womack"", ""Levi Rodriguez""]","[""He""]",[],"The answer includes 'He' which is a pronoun, not a named protagonist, while Quill Womack and Levi Rodriguez are properly identified characters.",False,"* He
+* Quill Womack
+* Levi Rodriguez"
+default_claude_short::Entities::query_16,Entities,5,pass,default_claude_short::answer_chapter_2,"[""default_claude_short::answer_chapter_2""]","[""Chloe Castillo"", ""Sienna Hamrick"", ""Reid Blunt""]",[],[],All three protagonists mentioned in the candidate answer are explicitly named in the gold passage as being involved in the fashion show events at the American Museum of Natural History.,False,"* Chloe Castillo
+* Sienna Hamrick
+* Reid Blunt"
+default_claude_short::Entities::query_17,Entities,5,pass,default_claude_short::answer_chapter_1,"[""default_claude_short::answer_chapter_1""]","[""Ezra Edwards"", ""Noa Middleton"", ""Mara Ledbetter""]",[],[],All three named protagonists are explicitly mentioned in the passage.,False,"Ezra Edwards, Noa Middleton, Mara Ledbetter"
+default_claude_short::Entities::query_18,Entities,5,pass,default_claude_short::answer_chapter_19,"[""default_claude_short::answer_chapter_19""]","[""Hazel Lewis"", ""Sol Schiller"", ""Octavia Talley""]",[],[],All three protagonists are explicitly named and involved in the historical reenactment events at Brooklyn Bridge.,False,"* Hazel Lewis
+* Sol Schiller
+* Octavia Talley"
+default_claude_short::Entities::query_19,Entities,4,partial,default_claude_short::answer_chapter_5,"[""default_claude_short::answer_chapter_5""]","[""Meredith Gardner"", ""Uri Wemple"", ""Logan Diaz""]","[""He""]",[],The answer correctly identifies three named protagonists but includes 'He' which is a pronoun referring to Logan Diaz rather than a distinct protagonist.,False,"* He
+* Meredith Gardner
+* Uri Wemple
+* Logan Diaz"
+default_claude_short::Entities::query_20,Entities,2,partial,default_claude_short::answer_chapter_1,"[""default_claude_short::answer_chapter_1""]","[""Ezra Edwards""]",[],"[""Noa Middleton"", ""Mara Ledbetter""]",The answer only includes Ezra Edwards but misses Noa Middleton and Mara Ledbetter who are also protagonists involved in events at Bethpage Black Course.,False,Ezra Edwards
+default_claude_short::Entities::query_21,Entities,0,fail,default_claude_short::answer_chapter_10,"[""default_claude_short::answer_chapter_19""]",[],"[""Henry Reed""]","[""Hazel Lewis"", ""Sol Schiller"", ""Octavia Talley""]","The candidate answer lists Henry Reed, who does not appear in the passage, and omits the three protagonists actually present: Hazel Lewis, Sol Schiller, and Octavia Talley.",False,Henry Reed
+default_claude_short::Entities::query_22,Entities,2,partial,default_claude_short::answer_chapter_3,"[""default_claude_short::answer_chapter_4""]","[""Alma Aultman""]",[],"[""Zoe Brown"", ""Alondra Wilkinson""]",The answer only includes Alma Aultman but misses Zoe Brown and Alondra Wilkinson who are also protagonists involved in events at Hither Hills State Park.,False,Alma Aultman
+default_claude_short::Entities::query_23,Entities,3,partial,default_claude_short::answer_chapter_10,"[""default_claude_short::answer_chapter_10""]","[""Henry Reed""]",[],"[""Zander Davenport"", ""Oakley Goetz""]","The answer includes Henry Reed but omits Zander Davenport and Oakley Goetz, who are also protagonists involved in events at the Queensboro Bridge.",False,Henry Reed
+default_claude_short::Entities::query_24,Entities,2,partial,default_claude_short::answer_chapter_17,"[""default_claude_short::answer_chapter_17""]","[""Josephine Gaither"", ""Mila Gonzalez"", ""Nylah Zavala""]",[],"[""Kylee Beard"", ""Nash Ensign""]",The answer lists three protagonists present at St. Patrick's Cathedral but omits Kylee Beard and Nash Ensign who are also mentioned in the passage.,False,"Josephine Gaither, Mila Gonzalez, and Nylah Zavala have been involved in events at St. Patrick's Cathedral."
+default_claude_short::Entities::query_25,Entities,1,fail,default_claude_short::answer_chapter_12,"[""default_claude_short::answer_chapter_18"", ""default_claude_short::answer_chapter_12"", ""default_claude_short::answer_chapter_5""]","[""Chloe Castillo""]",[],"[""Jackson Ramos"", ""Israel Gallo"", ""Luka Shaffer"", ""Meredith Gardner"", ""Uri Wemple"", ""Logan Diaz""]",The answer only includes Chloe Castillo but misses all other protagonists mentioned in the gold passages who were involved in events at High Line.,False,Chloe Castillo
+default_claude_short::Entities::query_26,Entities,2,partial,default_claude_short::answer_chapter_7,"[""default_claude_short::answer_chapter_11"", ""default_claude_short::answer_chapter_7""]","[""Dakari Liebert"", ""Benjamin Green"", ""Creed Berlin""]",[],"[""Henry Reed"", ""Jonah Kramer"", ""Karsyn Schaeffer""]","The answer lists three protagonists from the second passage but omits three key protagonists from the first passage (Henry Reed, Jonah Kramer, Karsyn Schaeffer).",False,"Dakari Liebert
+Benjamin Green
+Creed Berlin"
+default_claude_short::Entities::query_27,Entities,5,pass,default_claude_short::answer_chapter_3,"[""default_claude_short::answer_chapter_14""]","[""Benjamin Green"", ""Genevieve Burgin""]",[],[],"The candidate answer correctly lists both protagonists mentioned in the gold passage for events on April 09, 2026.",False,"* Benjamin Green
+* Genevieve Burgin"
+default_claude_short::Entities::query_28,Entities,3,partial,default_claude_short::answer_chapter_15,"[""default_claude_short::answer_chapter_15""]","[""Quill Womack"", ""Levi Rodriguez""]","[""He""]",[],The candidate answer includes two named protagonists from the passage but also includes an unnamed pronoun 'He' which is not a specific protagonist name.,False,"[
+""He"",
+""Quill Womack"",
+""Levi Rodriguez""
+]"
+default_claude_short::Entities::query_29,Entities,1,fail,default_claude_short::answer_chapter_3,"[""default_claude_short::answer_chapter_17""]","[""Mila Gonzalez""]",[],"[""Kylee Beard"", ""Josephine Gaither"", ""Nylah Zavala"", ""Nash Ensign"", ""the narrator (unnamed protagonist)""]","The answer only includes one protagonist (Mila Gonzalez) but misses all other named protagonists from the passage including Kylee Beard, Josephine Gaither, Nylah Zavala, Nash Ensign, and the unnamed narrator who is the central perspective character.",False,"[
+""Mila Gonzalez""
+]"
+default_claude_short::Entities::query_30,Entities,3,partial,default_claude_short::answer_chapter_10,"[""default_claude_short::answer_chapter_4""]","[""Alma Aultman"", ""Zoe Brown""]","[""Scarlett Thomas""]","[""Alondra Wilkinson""]",The answer includes two correct protagonists from the passage but adds an unsupported name and omits Alondra Wilkinson who is explicitly mentioned.,False,"* Scarlett Thomas
+* Alma Aultman
+* Zoe Brown"
+default_claude_short::Entities::query_31,Entities,3,partial,default_claude_short::answer_chapter_10,"[""default_claude_short::answer_chapter_6""]","[""Julian Ross"", ""Sienna Lyles""]",[],"[""Hezekiah Bean""]","The answer correctly identifies Julian Ross and Sienna Lyles as protagonists but omits Hezekiah Bean who is also involved in the events on May 31, 2024.",False,"* Julian Ross
+* Sienna Lyles"
+default_claude_short::Entities::query_32,Entities,5,pass,default_claude_short::answer_chapter_14,"[""default_claude_short::answer_chapter_14""]","[""Benjamin Green"", ""Genevieve Burgin""]",[],[],"Both protagonists mentioned in the candidate answer are explicitly named in the gold passage as the main characters involved in the Tech Hackathon events on April 09, 2026.",False,"* Benjamin Green
+* Genevieve Burgin"
+default_claude_short::Entities::query_33,Entities,3,partial,default_claude_short::answer_chapter_15,"[""default_claude_short::answer_chapter_15""]","[""Quill Womack"", ""Levi Rodriguez""]","[""He""]",[],"The candidate lists 'He' as a protagonist, but the passage never identifies this person by name, so it is unsupported; Quill Womack and Levi Rodriguez are explicitly named and thus supported.",False,"* He
+* Quill Womack
+* Levi Rodriguez"

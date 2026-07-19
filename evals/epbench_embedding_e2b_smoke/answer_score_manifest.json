@@ -1,0 +1,13 @@
+{
+  "dataset": "data/processed/epbench_episodic",
+  "elapsed_seconds": 28.608,
+  "eval_dir": "evals/epbench_embedding_e2b_smoke",
+  "finished_at": "2026-07-19T00:18:13.059501+00:00",
+  "judge_base_url": "http://127.0.0.1:8081/v1",
+  "judge_max_tokens": 384,
+  "judge_model": "gemma-4-e2b",
+  "judge_temperature": 0,
+  "run_type": "epbench_e2b_answer_scoring",
+  "score_scope": "LLM-as-judge generation score against all gold qrel passages",
+  "started_at": "2026-07-19T00:17:44.502259+00:00"
+}

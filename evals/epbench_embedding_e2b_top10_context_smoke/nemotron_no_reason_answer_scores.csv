@@ -1,0 +1,54 @@
+query_id,query_type,answer_score,answer_grade,top_doc_id,gold_doc_ids,supported_items,unsupported_items,missing_items,explanation,reasoning_details_present,e2b_answer
+default_claude_short::Entities::query_1,Entities,5,pass,default_claude_short::answer_chapter_15,"[""default_claude_short::answer_chapter_15""]","[""Levi Rodriguez"", ""Quill Womack""]",[],[],Both protagonists mentioned in the candidate answer are explicitly named and involved in the Astronomy Night events described in the passage.,False,"* Levi Rodriguez
+* Quill Womack"
+default_claude_short::Entities::query_2,Entities,3,partial,default_claude_short::answer_chapter_5,"[""default_claude_short::answer_chapter_5""]","[""Meredith Gardner"", ""Uri Wemple"", ""Logan Diaz""]","[""High Line event attendees""]",[],The answer correctly identifies three named protagonists but includes an unsupported generic group.,False,"* High Line event attendees
+* Meredith Gardner
+* Uri Wemple
+* Logan Diaz"
+default_claude_short::Entities::query_3,Entities,5,pass,default_claude_short::answer_chapter_13,"[""default_claude_short::answer_chapter_13""]","[""A red-haired woman who organized homebrewing workshops."", ""Meredith Lester"", ""Presley Lunt"", ""Scarlett Thomas"", ""Kali Newcomb"", ""Ronan Francois"", ""Cora Xiong"", ""Nyla Bower"", ""Delphi Parent""]",[],[],All listed protagonists are explicitly named or described in the gold passage.,False,"* A red-haired woman who organized homebrewing workshops.
+* Meredith Lester
+* Presley Lunt
+* Scarlett Thomas
+* Kali Newcomb
+* Ronan Francois
+* Cora Xiong
+* Nyla Bower
+* Delphi Parent"
+default_claude_short::Entities::query_4,Entities,5,pass,default_claude_short::answer_chapter_2,"[""default_claude_short::answer_chapter_2""]","[""Sienna Hamrick"", ""Chloe Castillo"", ""Reid Blunt""]",[],[],All three protagonists mentioned in the candidate answer are explicitly named in the gold passage as being involved in the fashion show events.,False,"* Sienna Hamrick
+* Chloe Castillo
+* Reid Blunt"
+default_claude_short::Entities::query_5,Entities,5,pass,default_claude_short::answer_chapter_10,"[""default_claude_short::answer_chapter_10""]","[""Henry Reed"", ""Zander Davenport"", ""Oakley Goetz""]",[],[],All three protagonists mentioned in the candidate answer are explicitly named and involved in the film festival events described in the gold passage.,False,"* Henry Reed
+* Zander Davenport
+* Oakley Goetz"
+default_claude_short::Entities::query_6,Entities,3,partial,default_claude_short::answer_chapter_11,"[""default_claude_short::answer_chapter_11"", ""default_claude_short::answer_chapter_7""]","[""Jonah Kramer"", ""Karsyn Schaeffer"", ""Henry Reed"", ""Benjamin Green"", ""Creed Berlin""]",[],"[""Dakari Liebert""]","All listed protagonists are supported by the passages, but Dakari Liebert (the event organizer) is missing from the answer.",False,"* Jonah Kramer
+* Karsyn Schaeffer
+* Henry Reed
+* Benjamin Green
+* Creed Berlin"
+default_claude_short::Entities::query_7,Entities,5,pass,default_claude_short::answer_chapter_1,"[""default_claude_short::answer_chapter_8"", ""default_claude_short::answer_chapter_1"", ""default_claude_short::answer_chapter_12""]","[""Ezra Edwards"", ""Noa Middleton"", ""Mara Ledbetter"", ""Owen Thomas"", ""Lilah Hamilton"", ""Rocco Cormier"", ""Axl Mims""]",[],"[""Chloe Castillo"", ""Luka Shaffer""]","All listed protagonists appear in the gold passages, but Chloe Castillo and Luka Shaffer from the third passage are missing from the answer.",False,"* Ezra Edwards
+* Noa Middleton
+* Mara Ledbetter
+* Owen Thomas
+* Lilah Hamilton
+* Rocco Cormier
+* Axl Mims"
+default_claude_short::Entities::query_8,Entities,5,pass,default_claude_short::answer_chapter_16,"[""default_claude_short::answer_chapter_16"", ""default_claude_short::answer_chapter_6"", ""default_claude_short::answer_chapter_14""]","[""Remy Waterman"", ""Zoe Brown"", ""Benjamin Green"", ""Genevieve Burgin"", ""Julian Ross"", ""Hezekiah Bean"", ""Sienna Lyles""]",[],[],All listed protagonists appear in the gold passages as participants in tech hackathon events.,False,"* Remy Waterman
+* Zoe Brown
+* Benjamin Green
+* Genevieve Burgin
+* Julian Ross
+* Hezekiah Bean
+* Sienna Lyles"
+default_claude_short::Entities::query_9,Entities,3,partial,default_claude_short::answer_chapter_17,"[""default_claude_short::answer_chapter_9"", ""default_claude_short::answer_chapter_18"", ""default_claude_short::answer_chapter_17""]","[""Kylee Beard"", ""Josephine Gaither"", ""Nylah Zavala"", ""Mila Gonzalez"", ""Nash Ensign"", ""Jackson Ramos"", ""Israel Gallo"", ""Diem Nix"", ""Eli Groth"", ""Rey Pierre""]","[""Mila""]",[],"The answer includes 'Mila' as a separate entry from 'Mila Gonzalez', which is redundant and not explicitly listed as a distinct protagonist in the passages.",False,"* Kylee Beard
+* Josephine Gaither
+* Nylah Zavala
+* Mila Gonzalez
+* Nash Ensign
+* Jackson Ramos
+* Israel Gallo
+* Mila
+* Diem Nix
+* Eli Groth
+* Rey Pierre"
+default_claude_short::Entities::query_10,Entities,1,fail,default_claude_short::answer_chapter_15,"[""default_claude_short::answer_chapter_2"", ""default_claude_short::answer_chapter_15""]","[""Chloe Castillo""]","[""He stood at the entrance, observing each face that passed, searching for any sign of recognition or suspicion.""]","[""Levi Rodriguez"", ""Quill Womack"", ""Sienna Hamrick"", ""Reid Blunt""]","The answer includes only one named protagonist (Chloe Castillo) and one unnamed pronoun reference, missing four other named protagonists from the passages.",False,"* He stood at the entrance, observing each face that passed, searching for any sign of recognition or suspicion.
+* Chloe Castillo had transformed the space into a realm where fashion and fantasy collided."

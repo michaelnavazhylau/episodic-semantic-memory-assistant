@@ -1,0 +1,15 @@
+{
+  "batch_size": null,
+  "dataset": "data/processed/lamp_qa_personalization_sample100",
+  "eval_dir": "evals/lampqa_embedding_e4b_no_thinking_sample100_v2",
+  "finished_at": "2026-07-19T19:21:41.892894+00:00",
+  "judge_command": "claude --safe-mode -p <prompt> --model <model> --output-format json --json-schema <schema> --tools '' --disallowedTools mcp__* --no-session-persistence",
+  "limit": null,
+  "max_answer_chars": 5000,
+  "max_profile_chars": 1200,
+  "model": "sonnet",
+  "prefix": "claude_judge_smoke5",
+  "run_type": "lampqa_claude_cli_judge",
+  "started_at": "2026-07-19T19:12:32.376149+00:00",
+  "workers": 5
+}

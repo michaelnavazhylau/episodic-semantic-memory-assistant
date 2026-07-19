@@ -1,0 +1,16 @@
+{
+  "completed_items": 100,
+  "grade_counts": {
+    "fail": 26,
+    "partial": 66,
+    "pass": 8
+  },
+  "mean_score": 2.53,
+  "personalization_quality_counts": {
+    "misused": 3,
+    "none": 73,
+    "some": 21,
+    "strong": 3
+  },
+  "target_items": 100
+}

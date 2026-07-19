@@ -1,0 +1,14 @@
+{
+  "dataset": "data/processed/epbench_episodic",
+  "elapsed_seconds": 36.064,
+  "eval_dir": "evals/epbench_embedding_e2b_top10_context_smoke",
+  "finished_at": "2026-07-19T00:41:31.872402+00:00",
+  "judge_base_url": "https://openrouter.ai/api/v1",
+  "judge_max_tokens": 768,
+  "judge_model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "judge_reasoning_enabled": false,
+  "judge_temperature": 0,
+  "run_type": "epbench_openrouter_answer_scoring",
+  "score_scope": "OpenRouter LLM-as-judge generation score against all gold qrel passages",
+  "started_at": "2026-07-19T00:40:55.808007+00:00"
+}
