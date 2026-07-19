@@ -1,0 +1,15 @@
+{
+  "corpus_rows": 19,
+  "dataset": "data/processed/epbench_episodic",
+  "elapsed_seconds": 1.309,
+  "embedding_base_url": "http://127.0.0.1:8083/v1",
+  "embedding_model": "embeddinggemma-300m",
+  "finished_at": "2026-07-19T00:05:42.409984+00:00",
+  "limit": 10,
+  "output_dir": "evals/epbench_smoke",
+  "query_rows_scored": 10,
+  "run_type": "epbench_10_query_smoke",
+  "scoring": "cosine similarity over L2-normalized local embeddings",
+  "started_at": "2026-07-19T00:05:41.101097+00:00",
+  "top_k": 10
+}

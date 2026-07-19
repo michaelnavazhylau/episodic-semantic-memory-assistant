@@ -1,0 +1,19 @@
+{
+  "chat_base_url": "http://127.0.0.1:8081/v1",
+  "chat_model": "gemma-4-e2b",
+  "corpus_rows": 19,
+  "dataset": "data/processed/epbench_episodic",
+  "deterministic_grade_scope": "retrieval only, via qrels.tsv",
+  "elapsed_seconds": 10.185,
+  "embedding_base_url": "http://127.0.0.1:8083/v1",
+  "embedding_model": "embeddinggemma-300m",
+  "finished_at": "2026-07-19T00:13:09.124229+00:00",
+  "limit": 10,
+  "max_tokens": 96,
+  "output_dir": "evals/epbench_embedding_e2b_smoke",
+  "query_rows_scored": 10,
+  "run_type": "epbench_embedding_e2b_10_query_smoke",
+  "started_at": "2026-07-19T00:12:58.939323+00:00",
+  "temperature": 0,
+  "top_k": 10
+}
