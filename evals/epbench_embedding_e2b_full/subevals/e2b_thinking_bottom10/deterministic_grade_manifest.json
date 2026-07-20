@@ -1,0 +1,23 @@
+{
+  "dataset": "data/processed/epbench_episodic",
+  "elapsed_seconds": 1.245,
+  "eval_dir": "evals/epbench_embedding_e2b_full/subevals/e2b_thinking_bottom10",
+  "event_inventory_size": 10,
+  "finished_at": "2026-07-19T20:18:18.232528+00:00",
+  "location_inventory_size": 14,
+  "person_inventory_size": 60,
+  "queries": 10,
+  "results_jsonl": "results.jsonl",
+  "run_type": "epbench_deterministic_generation_grading",
+  "score_policy": {
+    "Entities": "person set F1 over gold qrel passages and response",
+    "Event_contents": "0.6 * anchor set F1 + 0.4 * mean(token F1, ROUGE-L F1)",
+    "Full_event_details": "0.6 * anchor set F1 + 0.4 * mean(token F1, ROUGE-L F1)",
+    "Other_entities": "person set F1, excluding people named in the query",
+    "Spaces": "location set F1 over known EPBench location inventory",
+    "Times": "normalized date set F1"
+  },
+  "semantic_embedding_model": "embeddinggemma-300m",
+  "semantic_similarity_enabled": true,
+  "started_at": "2026-07-19T20:18:16.987553+00:00"
+}

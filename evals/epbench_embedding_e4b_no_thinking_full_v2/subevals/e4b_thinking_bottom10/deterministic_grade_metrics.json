@@ -1,0 +1,38 @@
+{
+  "anchor_f1": 0.5886399711399711,
+  "by_query_type": {
+    "Other_entities": {
+      "anchor_f1": 1.0,
+      "date_f1": 1.0,
+      "lexical_mean_f1": 0.15742793791574278,
+      "location_f1": 1.0,
+      "person_f1": 1.0,
+      "primary_score": 1.0,
+      "queries": 1,
+      "rouge_l_f1": 0.12416851441241684,
+      "semantic_cosine": 0.7548763725949738,
+      "token_f1": 0.1906873614190687
+    },
+    "Spaces": {
+      "anchor_f1": 0.5429333012666346,
+      "date_f1": 0.4444444444444444,
+      "lexical_mean_f1": 0.04189914818559156,
+      "location_f1": 0.8888888888888888,
+      "person_f1": 0.3037037037037037,
+      "primary_score": 0.8888888888888888,
+      "queries": 9,
+      "rouge_l_f1": 0.03662427829310423,
+      "semantic_cosine": 0.3729228492350736,
+      "token_f1": 0.04717401807807889
+    }
+  },
+  "date_f1": 0.5,
+  "lexical_mean_f1": 0.05345202715860668,
+  "location_f1": 0.9,
+  "person_f1": 0.37333333333333335,
+  "primary_score": 0.9,
+  "queries": 10,
+  "rouge_l_f1": 0.04537870190503549,
+  "semantic_cosine": 0.4111182015710636,
+  "token_f1": 0.06152535241217787
+}

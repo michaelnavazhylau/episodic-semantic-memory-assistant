@@ -1,0 +1,183 @@
+question_id,source_config,category,profile_count,retrieved_profile_ids,retrieved_profile_scores,question,e2b_answer
+Art_and_Entertainment::0_1_787,Art_and_Entertainment,scifi,352,"Art_and_Entertainment::0_1_787_261,Art_and_Entertainment::0_1_787_315,Art_and_Entertainment::0_1_787_62,Art_and_Entertainment::0_1_787_318,Art_and_Entertainment::0_1_787_139,Art_and_Entertainment::0_1_787_205,Art_and_Entertainment::0_1_787_320,Art_and_Entertainment::0_1_787_304","0.498759,0.459967,0.452055,0.410475,0.402797,0.394168,0.391763,0.382703",Why does Ben Halvorson insist upon English?,"The specific, in-universe justification for Dr. Halvorson's insistence on English at Sanctum is not explicitly detailed in the provided context. However, based on the nature of the setting and the function of such rules in narrative world-building, the insistence likely serves a practical, operational, or psychological purpose rather than being merely a matter of personal preference.
+
+Here are the most probable justifications for the rule:
+
+**1. Operational Efficiency and Security (The Practical Reason):**
+Sanctum appears to be a highly specialized or international facility. If the staff, researchers, or personnel are drawn from various global backgrounds, enforcing a single, universally understood language like English ensures that critical information—especially regarding sensitive research or security protocols—is communicated without ambiguity. This is a common trope in international organizations where a common language is necessary for operational security and efficiency.
+
+**2. Establishing Institutional Boundaries (The Psychological Reason):**
+The rule may be a deliberate mechanism used by Dr. Halvorson to establish a specific cultural or institutional boundary within Sanctum. By mandating English, he is creating a defined environment that separates the facility from the local Norwegian culture. This suggests that Sanctum operates under a different set of rules, priorities, or a specific international mandate that supersedes local customs.
+
+**3. Maintaining a Specific Demographic (The Contextual Reason):**
+If the personnel at Sanctum are primarily international experts, researchers, or affiliated with a global organization, the rule simply reflects the demographic makeup of the staff. The rule ensures that the core team can communicate effectively, regardless of their native tongue.
+
+While the rule seems arbitrary from the perspective of a local observer, it functions as a narrative device to signal that Sanctum is not a typical local establishment, but rather a highly structured, international, and perhaps secretive operation."
+Art_and_Entertainment::0_1_666,Art_and_Entertainment,rpg,70,"Art_and_Entertainment::0_1_666_68,Art_and_Entertainment::0_1_666_52,Art_and_Entertainment::0_1_666_16,Art_and_Entertainment::0_1_666_28,Art_and_Entertainment::0_1_666_62,Art_and_Entertainment::0_1_666_36,Art_and_Entertainment::0_1_666_54,Art_and_Entertainment::0_1_666_31","0.572002,0.533995,0.506138,0.505200,0.502273,0.497169,0.496614,0.491204",How does the Avatar spell function if my character worships a god that isn't listed under the spell?,"If your deity, Ng, is not explicitly listed as granting specific benefits or powers within the description of the *Avatar* spell, the spell will function according to its base mechanical description without those unique, deity-specific enhancements.
+
+In Pathfinder, divine spells and their associated powers are conditional. The spell does not automatically grant benefits simply because you are a Cleric or because your deity belongs to a specific pantheon (like the Eldest). The connection must be explicit.
+
+Here is what that means mechanically:
+
+1.  **Base Function:** You will gain the general effects of the *Avatar* spell (e.g., temporary physical changes, increased stats, or specific combat abilities listed in the spell's core description).
+2.  **No Divine Boost:** You will not gain any unique, thematic, or powerful abilities that are reserved for deities whose names or domains are specifically mentioned as granting those powers.
+
+Essentially, if the spell requires a specific divine connection to unlock a powerful effect, and that connection is missing, the spell defaults to its standard, non-enhanced form. You are casting a divine spell, but you are not tapping into the specific divine power that the spell is designed to channel through that particular deity."
+Art_and_Entertainment::0_1_653,Art_and_Entertainment,rpg,187,"Art_and_Entertainment::0_1_653_94,Art_and_Entertainment::0_1_653_131,Art_and_Entertainment::0_1_653_8,Art_and_Entertainment::0_1_653_93,Art_and_Entertainment::0_1_653_72,Art_and_Entertainment::0_1_653_152,Art_and_Entertainment::0_1_653_17,Art_and_Entertainment::0_1_653_1","0.517912,0.484927,0.479400,0.471385,0.469031,0.442689,0.418579,0.411860",Applying XP to a pre-created adventure with milestones?,"There are no official rules or conversion charts provided by the game to translate milestone adventures directly into a strict XP system. However, since your goal is to maintain a highly flexible, open-world campaign that rewards roleplaying and clever solutions, you can easily create a custom system that achieves this balance.
+
+The key is to treat the milestones not as fixed rewards, but as **XP benchmarks** that define the *minimum* required progression.
+
+Here is a practical approach to converting the milestone structure into an XP-based system that rewards player agency:
+
+### 1. Establish the XP Budget (The Benchmark)
+
+First, determine the total XP required for the party to reach the next level (e.g., Level 2 to Level 3). This is your ""XP Budget.""
+
+*   **Milestone XP:** Assign the full XP budget to the completion of the major milestone. This is the guaranteed reward for advancing the plot.
+*   **The ""Roleplay/Action"" Pool:** This is the crucial step. Take the difference between the XP budget and the XP you assign for the milestone completion. This remaining XP is your flexible pool, which you distribute based on player actions.
+
+### 2. Implement Tiered XP Rewards
+
+Instead of only rewarding the final outcome, break down the XP budget into tiers that reward different levels of engagement:
+
+| Action Type | XP Reward (Example) | Purpose |
+| :--- | :--- | :--- |
+| **Minor Success/Discovery** | Low XP (e.g., 50–100 XP) | Finding a clue, successfully navigating a social encounter, solving a minor puzzle. Rewards effort and investigation. |
+| **Major Success/Roleplay** | Medium XP (e.g., 150–250 XP) | Successfully resolving a complex social encounter, using a clever tactic to bypass a threat, or achieving a significant non-combat goal. Rewards gamesmanship. |
+| **Milestone Completion** | High XP (The bulk of the budget) | Completing the main objective of the quest. This is the guaranteed reward for advancing the plot. |
+| **Combat/Kill** | Variable XP (Standard monster XP) | Used for standard combat encounters. This ensures that if the players choose to fight, they are still rewarded, but it is not the primary driver of progression. |
+
+### 3. Handling Player Agency (The Open World Factor)
+
+Since your players can ignore the main story, you must ensure that *any* significant action they take—even if it is tangential—is rewarded.
+
+*   **The ""Equivalent Value"" Rule:** If a group of enemies would normally yield 350 XP, and the players successfully negotiate their surrender or avoid the fight entirely, you should reward them with at least 350 XP. This maintains the perceived value of the action, regardless of the method used.
+*   **Reward Effort, Not Just Outcome:** If a player spends an entire session trying to find a secret entrance to a dungeon, even if they fail, reward them with a small amount of XP for the effort and roleplaying involved. This validates their investment in the world.
+
+### Summary for New Players
+
+For a group of new players, consistency is more important than strict adherence to a specific number. By using this tiered system, you achieve three things:
+
+1.  **Pacing Control:** The Milestone XP ensures the party progresses at the intended pace of the adventure.
+2.  **Behavioral Reward:** The Roleplay/Action XP ensures that players who are clever, social, or creative are rewarded just as much as those who are combat-focused.
+3.  **Clarity:** You are giving them a clear, consistent metric (XP) that they can understand and track, which is often easier for new players than tracking ""milestones completed."""
+Lifestyle_and_Personal_Development::1_1_487,Lifestyle_and_Personal_Development,gardening,29,"Lifestyle_and_Personal_Development::1_1_487_12,Lifestyle_and_Personal_Development::1_1_487_18,Lifestyle_and_Personal_Development::1_1_487_26,Lifestyle_and_Personal_Development::1_1_487_11,Lifestyle_and_Personal_Development::1_1_487_13,Lifestyle_and_Personal_Development::1_1_487_14,Lifestyle_and_Personal_Development::1_1_487_1,Lifestyle_and_Personal_Development::1_1_487_7","0.541363,0.518590,0.306105,0.303952,0.295090,0.274119,0.262901,0.222918",Why are my Azaleas failing?,"The difference in health between your Azaleas suggests that while the general care routine is correct, the two struggling plants are experiencing a localized issue that the others are avoiding. Azaleas are sensitive plants, and the symptoms you describe—small size and brown leaf tips—usually point to issues with water management, soil chemistry, or environmental stress.
+
+Here is a breakdown of the most likely causes and how to diagnose them:
+
+### 1. Watering and Drainage Issues (Most Common)
+Azaleas are highly susceptible to root problems.
+*   **Overwatering/Poor Drainage:** If the soil around the failing plants is holding too much moisture, the roots can suffocate and rot. This often leads to browning, wilting, and stunted growth, even if the soil feels damp.
+*   **Underwatering/Inconsistent Moisture:** If the soil dries out too quickly in that specific spot, the plants become stressed, leading to leaf scorch (browning tips).
+
+**Action:** Dig down around the base of the failing plants. Check the moisture level several inches below the surface. If the soil is soggy, you may need to improve drainage by gently mounding the soil away from the stem or adding more grit/compost to the immediate root zone.
+
+### 2. Soil and Nutrient Imbalance
+You mentioned using ericaceous soil, which is correct for Azaleas, as they require acidic soil. However, the issue could be related to how the soil is behaving in those specific spots.
+*   **Nutrient Lockout:** Even with the correct fertilizer, if the soil pH is slightly off, the plant cannot absorb the nutrients, leading to slow growth and stress.
+*   **Localized Soil Variation:** Since they were all planted together, it is possible the two failing plants were planted in a patch of soil that was more compacted, had less organic matter, or had a different drainage profile than the healthy plants.
+
+**Action:** Gently test the pH of the soil in the failing plants' areas. If it is not acidic (pH 4.5–6.0), you may need to amend the soil with peat moss or elemental sulfur.
+
+### 3. Environmental Stress (Microclimate)
+Even if they are in the same garden, the two failing plants might be in a slightly different microclimate.
+*   **Sun Exposure:** Azaleas prefer dappled shade or morning sun. If the failing plants are receiving too much intense, direct afternoon sun, the leaves can scorch and turn brown.
+*   **Airflow/Temperature:** They might be situated in a spot that is prone to colder drafts or poor air circulation, which stresses the plant.
+
+**Action:** Observe the failing plants throughout the day. Note exactly where they are positioned relative to walls, fences, or trees, and how much direct sun they receive.
+
+### Summary Checklist for Diagnosis
+
+| Symptom | Likely Cause | Quick Fix |
+| :--- | :--- | :--- |
+| **Brown Tips/Scorching** | Too much direct sun or inconsistent watering. | Provide afternoon shade; ensure consistent moisture. |
+| **Stunted Growth/Small Size** | Root stress, nutrient lockout, or root rot. | Check soil moisture deep down; ensure drainage is excellent. |
+| **General Decline** | Soil pH is too high (alkaline). | Amend the soil with acidic materials like peat moss. |
+
+**Recommendation:** Focus on checking the soil moisture and drainage in the immediate vicinity of the two struggling plants. If the soil is consistently wet, reduce watering and improve drainage. If the soil is consistently dry, ensure the area is receiving adequate, but not excessive, moisture."
+Society_and_Culture::2_1_494,Society_and_Culture,law,65,"Society_and_Culture::2_1_494_32,Society_and_Culture::2_1_494_5,Society_and_Culture::2_1_494_2,Society_and_Culture::2_1_494_46,Society_and_Culture::2_1_494_17,Society_and_Culture::2_1_494_9,Society_and_Culture::2_1_494_56,Society_and_Culture::2_1_494_3","0.486744,0.358843,0.310711,0.277683,0.274499,0.263731,0.244696,0.235120",Can a US Company be sued for failing to honour equity component of offer of engagement?,"Yes, a US company can potentially be sued for failing to honor an equity component of an offer of engagement, depending on the specific legal theories that can be applied to the facts of the case.
+
+The legal viability of a claim hinges on whether the initial promise of equity can be legally construed as a binding contract or if the individual can establish a claim based on reliance on that promise.
+
+### Potential Legal Theories
+
+**1. Breach of Contract**
+The strongest claim would be if the initial email correspondence or offer constituted a legally enforceable contract. For a contract to exist, there must generally be an offer, acceptance, and consideration (something of value exchanged).
+
+*   **The Challenge:** The company's defense would likely be that the initial offer was merely a ""term sheet"" or a non-binding expression of intent, and that the subsequent, formal contract (even if it offered a different compensation structure) superseded the initial agreement.
+*   **The Argument:** The individual would argue that the initial offer was sufficiently detailed and relied upon, making it a binding agreement.
+
+**2. Promissory Estoppel**
+This is often the most relevant theory in cases where a formal contract is absent or later modified. Promissory estoppel allows a person to seek relief when another party makes a clear promise that the first person reasonably relies upon, and that reliance results in a detriment.
+
+*   **The Argument:** The individual would argue that they reasonably relied on the promise of X% equity when they agreed to work for the company. The detriment is the time, effort, and specialized skill (developing the core technology and building the technical wing) they invested over 18 months, which they would not have undertaken had the compensation been merely a ""phantom"" profit share.
+*   **The Goal:** The goal of a promissory estoppel claim is not necessarily to force the company to give the exact equity promised, but to compel the company to provide *some* form of equitable remedy to compensate for the reliance and the value created.
+
+**3. Misrepresentation**
+The individual could argue that the company made a material misrepresentation of the compensation package.
+
+*   **The Argument:** The company initially represented the compensation as equity (a stake in the company's ownership), which has a specific, high potential value. By substituting this with a profit-sharing model, which the individual argues is of ""orders of magnitude"" lesser value, the company misrepresented the true nature and value of the offer.
+
+### Key Legal Considerations
+
+*   **Jurisdiction and Governing Law:** Since the company is a Delaware corporation and the individual is a UK citizen, the most critical factor is determining which law applies. If the initial correspondence or any contract contained a ""governing law"" clause, that law would dictate the rules of the dispute. If no such clause exists, the jurisdiction where the contract was signed or where the company is incorporated (Delaware) may apply.
+*   **The ""Phantom Equity"" Offer:** The company's attempt to substitute equity for a profit share is a material change to the original agreement. The individual's refusal to sign the new contract while continuing to perform the work strengthens the argument that the new offer was not accepted in good faith.
+*   **The Value Created:** The individual's evidence—that they built the technical wing and guaranteed the future of the product—is crucial. This demonstrates the tangible value they delivered, which is the basis for any claim for compensation.
+
+***
+
+***Disclaimer:** This information is for educational purposes only and does not constitute legal advice. Given the complexity of international contract law, corporate structure, and equity valuation, the individual should consult with an attorney specializing in corporate law and employment disputes in the relevant jurisdiction.*"
+Art_and_Entertainment::0_1_356,Art_and_Entertainment,movies,89,"Art_and_Entertainment::0_1_356_38,Art_and_Entertainment::0_1_356_9,Art_and_Entertainment::0_1_356_68,Art_and_Entertainment::0_1_356_15,Art_and_Entertainment::0_1_356_17,Art_and_Entertainment::0_1_356_27,Art_and_Entertainment::0_1_356_66,Art_and_Entertainment::0_1_356_6","0.474767,0.448715,0.405614,0.387321,0.374881,0.366155,0.354321,0.352185",When did Wonder Woman get this costume?,"In the DC Animated Movie Universe (DCAMU), the silver and red costume is generally considered Diana's original, standard Amazonian attire. Unlike the golden armor she acquired from Themiscyra, which is a specialized piece of gear with unique powers, the silver and red suit represents her foundational look as a warrior from Themyscira. It is not tied to a specific acquisition event within a single movie, but rather serves as her primary uniform."
+Art_and_Entertainment::0_1_413,Art_and_Entertainment,movies,267,"Art_and_Entertainment::0_1_413_139,Art_and_Entertainment::0_1_413_83,Art_and_Entertainment::0_1_413_242,Art_and_Entertainment::0_1_413_264,Art_and_Entertainment::0_1_413_13,Art_and_Entertainment::0_1_413_133,Art_and_Entertainment::0_1_413_6,Art_and_Entertainment::0_1_413_266","0.355858,0.347173,0.346785,0.336526,0.334762,0.334235,0.332837,0.330138",Who is this character in Little Baby Bum?,"The characters in Little Baby Bum videos, especially those based on traditional nursery rhymes like ""Twinkle Twinkle Little Star,"" are generally generic representations of children participating in the song.
+
+The girl you are referring to, positioned between Jacus and Mia in the ""Indian Twinkle Twinkle Little Star"" video, does not have a specific, established name within the context of the video or the rhyme itself. She is one of the many children featured in the performance, serving as a visual element to represent the group singing the song."
+Art_and_Entertainment::0_1_418,Art_and_Entertainment,movies,25,"Art_and_Entertainment::0_1_418_15,Art_and_Entertainment::0_1_418_0,Art_and_Entertainment::0_1_418_2,Art_and_Entertainment::0_1_418_21,Art_and_Entertainment::0_1_418_7,Art_and_Entertainment::0_1_418_8,Art_and_Entertainment::0_1_418_10,Art_and_Entertainment::0_1_418_5","0.435479,0.397147,0.364615,0.330928,0.325371,0.240159,0.237124,0.236917",Is there a missing scene in Tenet or am I missing something?,"The feeling that something is missing is common when watching *Tenet*, as the film is designed to be deliberately opaque regarding its internal mechanics. The ambiguity you are experiencing is likely a core part of the narrative structure, rather than a simple oversight.
+
+To address your specific questions about the inversion:
+
+**Is there a missing scene?**
+It is less about a missing scene and more about a missing *explanation*. Christopher Nolan intentionally leaves the mechanics of time inversion highly abstract. The film presents the inverted state as a condition the characters are navigating, rather than a process that can be neatly explained with a ""before"" and ""after"" moment. The goal is to force the viewer to experience the disorientation alongside the characters.
+
+**How and when did they invert?**
+In the context of *Tenet*, the inversion is not a single, clean event that happens at a specific point in time. Instead, it is a state of being that the characters are operating within. The ship scene, where the protagonist is performing inverted actions (like pull-ups while inverted), is a manifestation of the inverted reality they have entered.
+
+The film suggests that the inversion is tied to the nature of the objects and the forces at play, rather than a simple switch flipped by a character. The characters are not just traveling through time; they are interacting with a reality where the flow of causality is reversed.
+
+**The Narrative Logic**
+The complexity you are grappling with—how a state of inversion is achieved and maintained—is a central philosophical puzzle of the movie. Unlike traditional time travel narratives where a specific event (like a time machine activation) causes a change, *Tenet* treats inversion as a fundamental property of the world they are in.
+
+If you are looking for a definitive, linear explanation of the transition, the film does not provide one. The ambiguity is intentional, mirroring the protagonist's own struggle to understand a reality that operates outside of conventional logic."
+Art_and_Entertainment::0_1_571,Art_and_Entertainment,rpg,36,"Art_and_Entertainment::0_1_571_33,Art_and_Entertainment::0_1_571_24,Art_and_Entertainment::0_1_571_15,Art_and_Entertainment::0_1_571_9,Art_and_Entertainment::0_1_571_25,Art_and_Entertainment::0_1_571_21,Art_and_Entertainment::0_1_571_23,Art_and_Entertainment::0_1_571_17","0.535428,0.486412,0.479479,0.478812,0.470830,0.467314,0.465512,0.463482",Can you turn a spell into an area spell?,"In the Vancian spellcasting subsystem, you generally cannot simply ""turn"" a single-target spell into an Area of Effect (AoE) spell by changing a single rule. The spell's design dictates its scope.
+
+However, there are several mechanical workarounds depending on the specific ruleset you are using (e.g., Pathfinder, D&D 3.5, etc.):
+
+1.  **Spell Modification Feats/Abilities:** The most reliable method is to look for specific feats, class abilities, or item effects that grant the ability to modify the area of effect of a spell. Some classes or archetypes allow you to ""expand"" or ""broaden"" the effect of a spell, but this is usually limited to certain spell levels or types.
+2.  **Spell Selection:** If the goal is to use Spellblast to create an AoE effect, it is often more efficient to select a spell that is *already* designed to be an AoE, even if it is not the spell you originally intended to use.
+3.  **Telekinesis Specifics:** Telekinesis is typically a spell focused on manipulating objects or creatures individually. To make it AoE, you would need a mechanism that allows the spell to target multiple creatures within a radius simultaneously, which is not a standard feature of the spell itself.
+
+**In short:** You cannot mechanically alter the spell's nature. You must find a class feature, feat, or item that grants the ability to modify the spell's area of effect, or choose a different spell that already has the desired AoE properties."
+Society_and_Culture::2_1_25,Society_and_Culture,academia,45,"Society_and_Culture::2_1_25_19,Society_and_Culture::2_1_25_11,Society_and_Culture::2_1_25_15,Society_and_Culture::2_1_25_42,Society_and_Culture::2_1_25_36,Society_and_Culture::2_1_25_5,Society_and_Culture::2_1_25_25,Society_and_Culture::2_1_25_39","0.672528,0.588855,0.584962,0.578106,0.548094,0.542534,0.534448,0.523109",Can I share my results published results/research on my personal website or Medium blog post?,"This is a common concern for researchers balancing academic integrity with public outreach. Since I cannot provide legal advice, the following is based on standard academic publishing practices for IEEE and IET.
+
+### 1. Sharing Results on a Personal Website or Medium Blog
+
+**General Rule:** You must avoid republishing the copyrighted material (the exact text, figures, and tables) from the published paper.
+
+*   **Acceptable:** Sharing a high-level summary, a discussion of the findings, or a conceptual overview of the research is generally fine. This is considered commentary or outreach.
+*   **Unacceptable:** Posting a direct copy of the paper, or large sections of the paper that constitute the core intellectual property of the published work, is a copyright violation.
+*   **Best Practice:** If you wish to discuss the paper, frame the blog post as a *discussion* or *interpretation* of the results, rather than a *republication* of the paper itself.
+
+### 2. Sharing the Exact Code
+
+Sharing the code used to generate the results is generally treated separately from the copyright of the written paper.
+
+*   **Code vs. Copyright:** The copyright typically covers the expression of the ideas (the writing, figures, and structure). The underlying methodology and the code itself are often considered functional elements.
+*   **Reproducibility:** In many fields, sharing code (e.g., on GitHub) is encouraged for reproducibility.
+*   **Caution:** Ensure that the code does not contain any proprietary algorithms or confidential data that would violate any specific terms of your publication agreement. If the code is purely functional and necessary to demonstrate the results, sharing it is usually acceptable, provided it is not presented as a direct, verbatim copy of the paper's implementation section.
+
+### 3. Pre-Submission Disclosure (Blog Post Before Submission)
+
+**This is the most critical point.** Publishing your results on a blog or website *before* you have formally submitted the paper to a journal or conference is considered public disclosure.
+
+*   **Risk to Review Process:** If you publish results before submission, you risk having the reviewers see the work before the formal process begins. This can sometimes lead to issues regarding the novelty or originality of the work, or it may cause confusion during the review phase.
+*   **Publisher Policy:** Some publishers have strict policies regarding pre-publication disclosure. If your blog post is detailed enough to constitute a full disclosure of your methodology and results, it could potentially conflict with the publisher's terms and may be viewed as premature disclosure.
+*   **Recommendation:** Wait until the paper is formally submitted (and ideally, after the acceptance notification) before sharing detailed results or code publicly. If you must share something before submission, keep it extremely high-level and conceptual."
