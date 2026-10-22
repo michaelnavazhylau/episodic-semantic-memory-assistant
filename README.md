@@ -3,7 +3,7 @@
 Benchmark-first evaluation for CS 6795 (Cognitive Science · Georgia Institute of Technology · Summer 2026).
 Michael Navazhylau — mnavazhylau3@gatech.edu
 
-**Final report:** [`paper/MichaelNavazhylau_FinalReport.pdf`](paper/MichaelNavazhylau_FinalReport.pdf) — 7 pages. The README below is the short version; the report carries the full argument, method, and discussion.
+**Final report:** [`paper/evaluating-retrieved-episodic-personalized-semantic-memory-small-local-models.pdf`](paper/evaluating-retrieved-episodic-personalized-semantic-memory-small-local-models.pdf) — 7 pages. The README below is the short version; the report carries the full argument, method, and discussion.
 
 The question is narrow on purpose. Once episodic event memory and personalized
 profile memory are retrieved and placed in a small local model's context, where
@@ -237,7 +237,8 @@ data/processed/           normalized corpus, queries/qrels, questions, sampled s
 evals/<run>/              results.jsonl, metrics.json, manifest.json, *_scores.*,
                           subevals/<...>_thinking_bottom10/ (reasoning sub-eval)
 docs/figures/             make_figures.py + the PNGs rendered in this README
-paper/                    MichaelNavazhylau_FinalReport.pdf (7 pages)
+paper/                    evaluating-retrieved-episodic-personalized-semantic-memory-
+                          small-local-models.pdf (final report, 7 pages)
 pyproject.toml, uv.lock   uv-managed environment (Python 3.13)
 ```
 
