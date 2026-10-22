@@ -3,6 +3,8 @@
 Benchmark-first evaluation for CS 6795 (Cognitive Science · Georgia Institute of Technology · Summer 2026).
 Michael Navazhylau — mnavazhylau3@gatech.edu
 
+**Final report:** [`paper/MichaelNavazhylau_FinalReport.pdf`](paper/MichaelNavazhylau_FinalReport.pdf) — 7 pages. The README below is the short version; the report carries the full argument, method, and discussion.
+
 The question is narrow on purpose. Once episodic event memory and personalized
 profile memory are retrieved and placed in a small local model's context, where
 does answer quality break down — in retrieval or in generation — and how much
@@ -222,8 +224,8 @@ improvement that holds up.
 
 ## Repository layout
 
-Code and evaluation artifacts only. The pitch, report, poster, paper notes, and
-Zotero tooling are not part of this repository.
+Code, evaluation artifacts, and the final report. The pitch, poster, paper notes,
+and Zotero tooling are not part of this repository.
 
 ```
 src/data-normalization/   normalize_*.py, validate_*.py, sample_processed_datasets.py
@@ -235,6 +237,7 @@ data/processed/           normalized corpus, queries/qrels, questions, sampled s
 evals/<run>/              results.jsonl, metrics.json, manifest.json, *_scores.*,
                           subevals/<...>_thinking_bottom10/ (reasoning sub-eval)
 docs/figures/             make_figures.py + the PNGs rendered in this README
+paper/                    MichaelNavazhylau_FinalReport.pdf (7 pages)
 pyproject.toml, uv.lock   uv-managed environment (Python 3.13)
 ```
 
